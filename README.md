@@ -12,4 +12,4 @@ Usage:
 a). Run the file Simulation example run.R for an example simulation run. Parameter choices for the NSVt model in Definition (2) of the paper are in lines 11-17 and can be changed as needed. 
 
 
-b). Run the file ETF_data_analysis.R for an example run with the high-frequency financial data for the training period June 11-14, 2019. 
+b). Run the file ETF_data_analysis.R in the ETF Data Analysis folder for an example run with the high-frequency financial data for the training period June 11-14, 2019. 
