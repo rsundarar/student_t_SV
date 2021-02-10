@@ -9,4 +9,7 @@ b). The R and C++ source function files are -  i). CL_algorithm_functions.R; ii)
 
 Usage:
 
-Run the file Simulation example run.R for an example simulation run. Parameter choices for the NSVt model in Definition (2) of the paper are in lines 11-17 and can be changed as needed. 
+a). Run the file Simulation example run.R for an example simulation run. Parameter choices for the NSVt model in Definition (2) of the paper are in lines 11-17 and can be changed as needed. 
+
+
+b). Run the file ETF_data_analysis.R for an example run with the high-frequency financial data for the period June 11-14, 2019. 
